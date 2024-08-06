@@ -29,11 +29,11 @@ You can view the live demo of the Age Calculator (https://khaleed24.github.io/Ag
 
 If you want to run this project locally, follow these steps:
 
--Clone the repository:
--git clone https://github.com/khaleed24/AgeCalculator.git
--navigate to the project directory:
--cd AgeCalculator
--open index.html in your preferred web browser
+- Clone the repository:
+- git clone https://github.com/khaleed24/AgeCalculator.git
+- navigate to the project directory:
+- cd AgeCalculator
+- open index.html in your preferred web browser
 
 ## Project Structure
 

@@ -25,6 +25,16 @@ You can view the live demo of the Age Calculator (https://khaleed24.github.io/Ag
 2. Click on the "Calculate Age" button.
 3. Your age will be displayed dynamically without reloading the page.
 
+## Development
+
+If you want to run this project locally, follow these steps:
+
+-Clone the repository:
+-git clone https://github.com/khaleed24/AgeCalculator.git
+-navigate to the project directory:
+-cd AgeCalculator
+-open index.html in your preferred web browser
+
 ## Project Structure
 
 ```plaintext
@@ -38,15 +48,3 @@ index.html: The main HTML file containing the structure of the web application.
 styles.css: The external CSS file for styling the application.
 script.js: The external JavaScript file for handling the age calculation logic.
 README.md: The file you are currently reading.
-
-```plaintext
-
-## Development
-
-If you want to run this project locally, follow these steps:
-
--Clone the repository:
--git clone https://github.com/khaleed24/AgeCalculator.git
--navigate to the project directory:
--cd AgeCalculator
--open index.html in your preferred web browser

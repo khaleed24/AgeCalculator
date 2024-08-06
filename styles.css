@@ -5,10 +5,11 @@ body{
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: bisque;
+    background-color: #ADD8E6;
+    color: #FFFFFF;
 }
 .container{
-    background: white;
+    background: #00008B;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
@@ -40,8 +41,8 @@ input::placeholder{
 button{
     padding: 10px 20px;
     border: none;
-    background-color: goldenrod;
-    color:black;
+    background-color: #1E90FF;
+    color:#FFFFFF;
     cursor: pointer;
     border-radius: 5px;
     transition: background-color 0.3s;
@@ -59,4 +60,7 @@ button:hover{
         width: 90%;
         padding: 10px;
     }
+}
+a{
+    color:#4682B4;
 }

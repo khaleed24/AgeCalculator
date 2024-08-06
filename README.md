@@ -39,6 +39,8 @@ styles.css: The external CSS file for styling the application.
 script.js: The external JavaScript file for handling the age calculation logic.
 README.md: The file you are currently reading.
 
+```plaintext
+
 ## Development
 
 If you want to run this project locally, follow these steps:
